@@ -42,3 +42,9 @@ LinearRegression:
 Score  
 1.00994  
 處理掉負值之後  
+
+keras dense:
+Score on validation 1.0792
+
+lstm :
+
