@@ -47,4 +47,4 @@ keras dense:
 Score on validation 1.0792
 
 lstm :
-
+Score on validation 1.3577
